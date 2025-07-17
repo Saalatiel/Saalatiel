@@ -1,36 +1,47 @@
 # 👋 Olá, eu sou o João Salatiel
 
-🎯 Atuo como **Analista de Dados** com uma base sólida em **marketing digital** e performance de campanhas. Ao longo dos últimos anos, trabalhei analisando métricas de tráfego, conversão, ROI e comportamento de usuários para otimizar resultados em mídias como **Google Ads** e **Meta Ads**.
+Sou **Analista de Dados** com mais de **5 anos de experiência** no desenvolvimento de campanhas publicitárias pagas e estratégias de **marketing digital**, sempre com foco em **resultados mensuráveis** e **otimização contínua**. 
 
-Hoje, estou aprofundando minha atuação em **Análise de Dados aplicada ao negócio**, utilizando ferramentas como **Python, SQL e Tableau** para explorar dados com mais profundidade, gerar insights acionáveis e apoiar a tomada de decisões com base em dados.
-
----
-
-### 📈 Minha transição e foco atual:
-- 🔍 Extração e manipulação de dados com **SQL**
-- 📊 Visualizações dinâmicas com **Tableau** e **Power BI**
-- 🧪 Testes de hipóteses e análise de desempenho de campanhas
-- 📉 Modelagem e análise de funis de vendas e jornada do usuário
-- 🤖 Automatização de relatórios e análise com **Python (Pandas/Matplotlib)**
+Minha atuação combina **análise de dados estratégica**, **otimização de campanhas** e **implementação de soluções em Cloud Computing**, utilizando **Google Cloud** e **Amazon Web Services (AWS)** para garantir **performance, escalabilidade e eficiência operacional**.
 
 ---
 
-### 🧠 Tecnologias e ferramentas:
+### 🚀 O que eu entrego:
+- Análises precisas e visualmente claras para apoiar decisões de marketing e negócios  
+- Ambientes em nuvem configurados e otimizados para projetos de dados e performance  
+- Integração de dados de múltiplas fontes com dashboards e relatórios automatizados  
+- Estratégias baseadas em dados reais para melhorar conversões e reduzir custos  
+
+---
+
+### 💡 Principais competências:
+
+#### 🧠 **Análise de Dados & Performance**
+- Python e SQL para manipulação e análise de dados
+- KPIs, A/B Testing e visualização de dados com Tableau / Power BI  
+- Criação de pipelines de dados e relatórios automatizados  
+- Otimização contínua com foco em ROI, CAC, CPL e LTV  
+
+#### ☁️ **Cloud Computing**
+- **Google Cloud**: BigQuery, Data Studio, administração de instâncias  
+- **AWS**: EC2, S3, análise e integração de dados  
+
+#### 📈 **Marketing Digital**
+- SEO, SEM e estratégias baseadas em funil  
+- Gestão de campanhas pagas (Google Ads, Meta Ads)  
+- E-mail marketing, copywriting e automações  
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Google Ads](https://img.shields.io/badge/Google%20Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white)
-![Meta Ads](https://img.shields.io/badge/Meta%20Ads-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
----
-
-### 🚀 Projetos em destaque:
-- **📉 Otimização de campanhas de tráfego pago** com foco em ROI e CAC  
-- **📊 Dashboards de performance** para campanhas em Google e Meta Ads  
-- **🧪 Análises estatísticas de testes A/B** em landing pages e criativos  
-- **🔍 Projetos em SQL e Python** para análise de dados de clientes, vendas e comportamento online
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Google Ads](https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white)
+![Meta Ads](https://img.shields.io/badge/Meta_Ads-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
 
 ---
 
@@ -40,4 +51,5 @@ Hoje, estou aprofundando minha atuação em **Análise de Dados aplicada ao neg�
 
 ---
 
-> 📌 *"A melhor estratégia é aquela guiada por dados."*
+> 📌 *“Dados bem utilizados são o ativo mais poderoso de qualquer negócio.”*
+
